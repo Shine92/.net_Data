@@ -1,0 +1,9 @@
+D:\lab\test0904_data\test0904_data\bin\Debug\test0904_data.exe.config
+D:\lab\test0904_data\test0904_data\bin\Debug\test0904_data.exe
+D:\lab\test0904_data\test0904_data\bin\Debug\test0904_data.pdb
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.csprojResolveAssemblyReference.cache
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.Form1.resources
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.Properties.Resources.resources
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.csproj.GenerateResource.Cache
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.exe
+D:\lab\test0904_data\test0904_data\obj\Debug\test0904_data.pdb

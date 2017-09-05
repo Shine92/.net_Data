@@ -1,0 +1,64 @@
+﻿
+Prods
+
+pid  ...    qty
+1           100
+                             甲
+             ------------>  100
+乙
+100  <--------
+							-20
+			 80 <---------      update prods set qty = 80 where pid = 1
+-30
+-----------> 70                 update prods set qty = 70 where pid = 1
+
+
+
+
+Prods
+
+pid  ...    qty
+1           100
+                             甲
+             ------------>  100
+乙
+100  <--------
+							-20
+			 80 <---------      update prods set qty = 80 where pid = 1 and qty = 100
+-30
+-----------> ?!                 update prods set qty = 70 where pid = 1 and qty = 100
+ 80  <--------
+-30
+====
+ 50 ------>  50                update prods set qty = 50 where pid = 1 and qty = 80
+
+
+
+
+non-repeatable read 
+
+Prods
+
+pid  ...    qty
+1           100
+                             甲
+             ------------>  100
+乙  ----->  80
+             ------------>   80
+丙  -----> 120
+             ------------>  120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

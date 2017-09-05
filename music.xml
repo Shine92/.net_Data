@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <MusicDataSet xmlns="http://tempuri.org/MusicDataSet.xsd">
+    <Title diffgr:id="Title1" msdata:rowOrder="0" diffgr:hasChanges="modified">
+      <SongID>S001</SongID>
+      <Song>多家記憶</Song>
+      <Artiste>陳大春ch</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月01日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title2" msdata:rowOrder="1">
+      <SongID>S002</SongID>
+      <Song>類格</Song>
+      <Artiste>戴愛零s</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月02日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title3" msdata:rowOrder="2">
+      <SongID>S003</SongID>
+      <Song>牽牽牽腳</Song>
+      <Artiste>吳客群</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月01日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title4" msdata:rowOrder="3">
+      <SongID>S004</SongID>
+      <Song>為您寫書</Song>
+      <Artiste>許清榮</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月03日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title5" msdata:rowOrder="4">
+      <SongID>S005</SongID>
+      <Song>終於閉上嘴</Song>
+      <Artiste>大宇</Artiste>
+      <Language>台語</Language>
+      <IssuingDate>2013年12月04日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title6" msdata:rowOrder="5">
+      <SongID>S006</SongID>
+      <Song>一切不隨緣</Song>
+      <Artiste>黃絲婷</Artiste>
+      <Language>台語</Language>
+      <IssuingDate>2013年12月05日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title7" msdata:rowOrder="6">
+      <SongID>S007</SongID>
+      <Song>一嶺情網</Song>
+      <Artiste>龍萬玉</Artiste>
+      <Language>台語</Language>
+      <IssuingDate>2013年12月03日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title8" msdata:rowOrder="7">
+      <SongID>S008</SongID>
+      <Song>擦身而過</Song>
+      <Artiste>李甚傑</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月13日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title9" msdata:rowOrder="8">
+      <SongID>S009</SongID>
+      <Song>簡單朋友</Song>
+      <Artiste>陳大春</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月15日</IssuingDate>
+    </Title>
+    <Title diffgr:id="Title10" msdata:rowOrder="9">
+      <SongID>S010</SongID>
+      <Song>說謊地恨你</Song>
+      <Artiste>郭採擷</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月16日</IssuingDate>
+    </Title>
+  </MusicDataSet>
+  <diffgr:before>
+    <Title diffgr:id="Title1" msdata:rowOrder="0" xmlns="http://tempuri.org/MusicDataSet.xsd">
+      <SongID>S001</SongID>
+      <Song>多家記憶1</Song>
+      <Artiste>陳大春ch</Artiste>
+      <Language>國語</Language>
+      <IssuingDate>2013年12月01日</IssuingDate>
+    </Title>
+  </diffgr:before>
+</diffgr:diffgram>
